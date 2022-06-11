@@ -1,0 +1,14 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "projet",
+  "main": "exo_algo_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charly",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
